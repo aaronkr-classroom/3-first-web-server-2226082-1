@@ -1,0 +1,11 @@
+{
+  "name": "3-first-web-server-2226082-1",
+  "version": "1.0.0",
+  "description": "cities project.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
